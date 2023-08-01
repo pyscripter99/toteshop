@@ -1,6 +1,6 @@
 <div class="flex flex-wrap gap-5 m-5 justify-center">
 	{#each [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15] as i}
-		<a href="#1" class="card card-hover max-w-sm">
+		<a href={'/item/' + i} class="card card-hover max-w-sm">
 			<header class="card-header">
 				<img src="/shoes.jpg" alt="" srcset="" class="rounded" />
 			</header>

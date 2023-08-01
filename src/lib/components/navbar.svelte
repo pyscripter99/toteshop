@@ -51,6 +51,10 @@
 					{/each}
 				</div>
 				<Divider />
+				<div class="flex flex-row justify-between text-lg mx-3 mb-2">
+					<p class="">Total:</p>
+					<p class="font-bold">$53.5</p>
+				</div>
 				<button class="btn variant-filled-secondary w-full rounded-xl"
 					><span>Checkout</span><i class="fa-solid fa-arrow-right" /></button
 				>
