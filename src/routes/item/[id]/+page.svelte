@@ -2,7 +2,7 @@
 	<img src="/shoes.jpg" alt=" product" class="w-52 h-52 rounded-xl object-cover" />
 	<div class="flex flex-col w-full">
 		<div class="flex flex-row justify-between items-center">
-			<h2 class="h2 font-bold">Maxius Uncomfort</h2>
+			<h2 class="h2 font-bold">Maximus Uncomfort</h2>
 			<span class="font-bold h3">$26.75</span>
 		</div>
 
