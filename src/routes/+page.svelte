@@ -6,7 +6,10 @@
 			</header>
 			<section class="p-4">
 				<h2 class="text-2xl font-bold">Maximus Uncomfort</h2>
-				<p>The latest in uncomfortable shoe ware</p>
+				<p>
+					The latest in uncomfortable shoe ware. This is a really uncomfortable product, would 100%
+					recommend. It includes scratchy inner soles, and stiff laces
+				</p>
 			</section>
 			<footer class="card-footer w-full flex flex-row flex-nowrap">
 				<p>$26.75</p>
